@@ -2,8 +2,10 @@
 #include "main.h"
 
 /**
- *main - This file contains unction that prints the alphabet,
+ *print_alphabet - This file contains unction that prints the alphabet,
  *in lowercase, followed by a new line
+ *Description: _putchar can only be used twice in the code
+ *
  *By Mariam A. Ibrahim
  *
  *Return: 0 (Success)
