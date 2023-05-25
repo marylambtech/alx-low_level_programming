@@ -13,13 +13,8 @@
  */
 int _isalpha(int c)
 {
-c = 'a' || 'A';
-while (c <= 'z' || c <= 'Z')
-c++;
-{
 if (isalpha(c))
 return (1);
 else
 return (0);
-}
 }
