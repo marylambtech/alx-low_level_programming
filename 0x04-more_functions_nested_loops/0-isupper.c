@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- *main - This program checks for uppercase character
+ *_isupper - function that checks for uppercase character
  *@c: character type
  *Description: eturns 1 if c is uppercase
  *Returns 0 otherwise
