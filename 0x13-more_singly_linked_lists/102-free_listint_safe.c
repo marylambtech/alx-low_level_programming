@@ -46,7 +46,7 @@ size_t free_listint_safe(listint_t **head)
 		return (num);
 	while (*head != NULL)
 	{
-		for (j= 0; j < num; j++)
+		for (j = 0; j < num; j++)
 		{
 			if (*head == list[j])
 			{
